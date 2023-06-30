@@ -9,3 +9,6 @@ This was my first project to learn the HTML and CSS basics such as:
 - Layout and Grid Systems
 - Navigation and Linking
 - Image and Media Integration
+- Cross-Browser Compatibility
+- Code Organization and Best Practices
+- Troubleshooting and Debugging
